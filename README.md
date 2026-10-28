@@ -4,7 +4,7 @@
 
 [![deploy](https://github.com/warrfie/dirty_code/actions/workflows/pages.yml/badge.svg)](https://github.com/warrfie/dirty_code/actions/workflows/pages.yml)
 [![read online](https://img.shields.io/badge/read-online-9b2f1e)](https://warrfie.github.io/dirty_code/)
-[![languages](https://img.shields.io/badge/languages-30-blue)](#languages)
+[![languages](https://img.shields.io/badge/languages-32-blue)](#languages)
 [![pages](https://img.shields.io/badge/pages-%E2%88%9E-black)](https://warrfie.github.io/dirty_code/)
 [![build step](https://img.shields.io/badge/build%20step-none-brightgreen)](#run-locally)
 [![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](public/)
@@ -24,7 +24,7 @@ Ironic. The man who spent decades teaching us to write code for people no longer
 
 ## Languages
 
-The book is available in 30 languages, including Esperanto, Interslavic, Latin and Toki Pona. The language is picked automatically from your browser settings and can be changed in the selector. Translations keep the tone and swap in local realities: John Doe becomes Max Mustermann or 山田太郎, a Telegram bot becomes a WhatsApp, LINE or KakaoTalk bot, and in Hebrew and Arabic the week ends on Thursday.
+The book is available in 32 languages, including Esperanto, Interslavic, Latin and Toki Pona. The language is picked automatically from your browser settings and can be changed in the selector. Translations keep the tone and swap in local realities: John Doe becomes Max Mustermann or 山田太郎, a Telegram bot becomes a WhatsApp, LINE or KakaoTalk bot, and in Hebrew and Arabic the week ends on Thursday.
 
 Russian is the source text: edits go into `public/lang/ru.js` first and are then carried over to the other files.
 

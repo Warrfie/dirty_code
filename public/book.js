@@ -7,10 +7,10 @@
   // Languages in selector order. Texts live in lang/<code>.js
   var LANGS = [
     ['ru', 'Русский'], ['en', 'English'], ['eo', 'Esperanto'], ['isv', 'Medžuslovjansky'],
-    ['uk', 'Українська'], ['be', 'Беларуская'], ['pl', 'Polski'], ['cs', 'Čeština'],
+    ['uk', 'Українська'], ['be', 'Беларуская'], ['kk', 'Қазақша'], ['pl', 'Polski'], ['cs', 'Čeština'],
     ['sr', 'Српски'], ['bg', 'Български'], ['de', 'Deutsch'], ['fr', 'Français'],
     ['es', 'Español'], ['it', 'Italiano'], ['pt', 'Português'], ['nl', 'Nederlands'],
-    ['sv', 'Svenska'], ['fi', 'Suomi'], ['la', 'Latina'], ['tr', 'Türkçe'],
+    ['sv', 'Svenska'], ['fi', 'Suomi'], ['la', 'Latina'], ['tr', 'Türkçe'], ['ka', 'ქართული'],
     ['ja', '日本語'], ['zh', '中文'], ['ko', '한국어'], ['vi', 'Tiếng Việt'],
     ['th', 'ไทย'], ['km', 'ខ្មែរ'], ['hi', 'हिन्दी'],
     ['ar', 'العربية'], ['he', 'עברית'], ['tok', 'toki pona']
