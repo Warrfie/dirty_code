@@ -48,21 +48,17 @@ body {
   transition: background-color .8s, color .8s;
 }
 
-/* Toolbar */
+/* Toolbar: sits above the cover, aligned to the book, and scrolls away with it */
 
 .toolbar {
-  position: sticky;
-  top: 0;
-  z-index: 10;
   display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
   gap: 8px;
-  padding: 10px 16px;
+  max-width: 712px;
+  margin: 0 auto;
+  padding: 12px 16px 6px;
   font-size: 14px;
-  background: color-mix(in srgb, var(--bg) 85%, transparent);
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
 }
 .toolbar select,
 .toolbar button {

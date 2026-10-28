@@ -11,7 +11,8 @@
     ['sr', 'Српски'], ['bg', 'Български'], ['de', 'Deutsch'], ['fr', 'Français'],
     ['es', 'Español'], ['it', 'Italiano'], ['pt', 'Português'], ['nl', 'Nederlands'],
     ['sv', 'Svenska'], ['fi', 'Suomi'], ['la', 'Latina'], ['tr', 'Türkçe'],
-    ['ja', '日本語'], ['zh', '中文'], ['ko', '한국어'], ['hi', 'हिन्दी'],
+    ['ja', '日本語'], ['zh', '中文'], ['ko', '한국어'], ['vi', 'Tiếng Việt'],
+    ['th', 'ไทย'], ['km', 'ខ្មែរ'], ['hi', 'हिन्दी'],
     ['ar', 'العربية'], ['he', 'עברית'], ['tok', 'toki pona']
   ];
   var RTL = { ar: true, he: true };
